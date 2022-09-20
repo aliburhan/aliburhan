@@ -1,7 +1,8 @@
-Hello ım ali @alibuurhan
+Hello ım ali @alibuurhan. I am interested in cyber security and from Turkey.
+
+
 - ig: www.instagram.com/alibuurhan
 - My Website www.aliburhan.com
-- I am interested in cyber security
 - Contact Me aliburhanozanar@gmail.com
 
 <!---
